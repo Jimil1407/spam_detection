@@ -1,4 +1,4 @@
-# 📧 Ham-Spam Detection Model
+# 📧 Ham-Spam Detection Model.
 
 Welcome to the **Ham-Spam Detection Model**! This project implements a spam detection system using the Naive Bayes algorithm to classify messages as either 'ham' (not spam) or 'spam' (unwanted). It provides an efficient and accurate method for filtering out unwanted messages from your inbox.
 
