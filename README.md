@@ -1,27 +1,27 @@
 # 📧 Ham-Spam Detection Model
 
-Welcome to the **Ham-Spam Detection Model**! This project implements a spam detection system using the Naive Bayes algorithm to classify email messages as either 'ham' (not spam) or 'spam' (unwanted). It provides an efficient and accurate method for filtering out unwanted messages from your inbox.
+Welcome to the **Ham-Spam Detection Model**! This project implements a spam detection system using the Naive Bayes algorithm to classify messages as either 'ham' (not spam) or 'spam' (unwanted). It provides an efficient and accurate method for filtering out unwanted messages from your inbox.
 
 ## 🔍 Overview
 
-The Ham-Spam Detection Model leverages the Naive Bayes algorithm, a probabilistic classifier, to distinguish between ham and spam emails. The model is trained on a dataset of labeled emails and can be used to classify new messages with high accuracy.
+The Ham-Spam Detection Model leverages the Naive Bayes algorithm, a probabilistic classifier, to distinguish between ham and spam messages. The model is trained on a dataset of labeled messages and can be used to classify new messages with high accuracy.
 
 ## 🚀 Features
 
 - **Spam Classification:** Identifies whether an email is spam or ham.
 - **Naive Bayes Algorithm:** Uses a probabilistic approach for classification.
-- **Efficient Filtering:** Helps manage and clean your email inbox by filtering out spam.
+- **Efficient Filtering:** Helps manage and clean your message inbox by filtering out spam.
 
 ## 📊 How It Works
 
 1. **Data Preprocessing:**
-   - Cleans and prepares the email data for training.
+   - Cleans and prepares the message data for training.
    
 2. **Model Training:**
-   - Trains a Naive Bayes classifier on the preprocessed email dataset.
+   - Trains a Naive Bayes classifier on the preprocessed message dataset.
 
 3. **Prediction:**
-   - Classifies new email messages as spam or ham based on the trained model.
+   - Classifies new messages as spam or ham based on the trained model.
 
 ## 🛠️ How to Run
 
